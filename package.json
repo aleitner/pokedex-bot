@@ -1,0 +1,13 @@
+{
+  "name": "pokedex-bot",
+  "version": "1.0.0",
+  "description": "who's that pokemon",
+  "main": "bot.js",
+  "author": "Alexander Leitner ",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "reverse-image-search": "0.0.0",
+    "tinyurl": "^1.1.4",
+    "winston": "^3.2.1"
+  }
+}
